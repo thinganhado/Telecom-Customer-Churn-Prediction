@@ -26,10 +26,6 @@ This project analyzes customer churn behavior in an Iranian telecom company usin
 - `churn-analysis-report.pdf`: Final report with visualizations, findings, and evaluation.
 - `data/`: Original dataset.
 
-## How to Run
-1. Download the [dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) and place it in the working folder.
-2. Open the notebook in Jupyter or view `churn-prediction-notebook.html` in your browser.
-
 ## Author
 **Thi Ngan Ha Do**  
 [GitHub](https://github.com/thinganhado) | [LinkedIn](#)  
